@@ -1,2 +1,2 @@
 # TemplateApplicationAndroid
-android template aplication project
+android template application project
